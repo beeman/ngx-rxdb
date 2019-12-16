@@ -1,11 +1,11 @@
 {
-  "name": "ngx-rxdb",
+  "name": "@beeman/ngx-rxdb",
   "author": {
-    "name": "voznik"
+    "name": "beeman"
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/voznik/ngx-rxdb/issues"
+    "url": "https://github.com/beeman/ngx-rxdb/issues"
   },
   "keywords": [
     "angular",
@@ -13,11 +13,11 @@
     "pouchdb"
   ],
   "description": "Angular wrapper for RxDb (realtime Database for the Web)",
-  "homepage": "https://voznik.github.io/ngx-rxdb",
+  "homepage": "https://beeman.github.io/ngx-rxdb",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voznik/ngx-rxdb.git"
+    "url": "git+https://github.com/beeman/ngx-rxdb.git"
   },
   "peerDependencies": {
     "@angular/common": "^7.2.0",

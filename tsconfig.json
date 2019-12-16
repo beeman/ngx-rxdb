@@ -28,10 +28,10 @@
       "@env/*": [
         "src/environments/*"
       ],
-      "ngx-rxdb": [
+      "@beeman/ngx-rxdb": [
         "dist/ngx-rxdb"
       ],
-      "ngx-rxdb/*": [
+      "@beeman/ngx-rxdb/*": [
         "dist/ngx-rxdb/*"
       ]
     }

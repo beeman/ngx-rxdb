@@ -1,5 +1,5 @@
 import { isDevMode } from '@angular/core';
-import { NgxRxdbCollectionConfig } from 'ngx-rxdb';
+import { NgxRxdbCollectionConfig } from '@beeman/ngx-rxdb';
 import { initialState } from './todos.model';
 
 export async function percentageDoneFn() {

@@ -171,6 +171,7 @@ export class NgxRxdbService implements OnDestroy {
     if (isEmpty(collections)) {
       throw new Error('collections must be initialized before importing dump');
     }
+    // @ts-ignore
     for (const key of collections) {
       if (dumpWithHashes.collections.hasOwnProperty(key)) {
         dumpWithHashes.collections[key].schemaHash = collections[key].schema['_hash'];

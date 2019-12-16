@@ -4,7 +4,7 @@
 
 ## Demo
 
-[demo](https://voznik.github.io/ngx-rxdb/)
+[demo](https://beeman.github.io/ngx-rxdb/)
 
 ## Table of contents
 
@@ -34,7 +34,9 @@ If you don't want to setup RxDB manually in your next Angular project - just imp
 
 ## Install
 
-Describe how to install / setup your local environement / add link to demo version.
+```
+npm install @beeman/ngx-rxdb
+```
 
 ## Usage
 
@@ -159,14 +161,6 @@ To-do list:
 
 Project is: _in progress_
 
-## Inspiration
+## Credits
 
-Project inspired by
-
-* [rxdb-angular2-example](https://github.com/pubkey/rxdb/blob/master/examples/angular2/README.md#rxdb-angular2-example)
-* [Angular NgRx Material Starter](https://tomastrajan.github.io/angular-ngrx-material-starter#/examples/todos)
-* _The Angular Library Series_ from [Angular In Depth](https://blog.angularindepth.com/)
-
-## Contact
-
-Created by [@voznik](https://github.com/voznik) - feel free to contact me!
+Friendly fork of [https://github.com/beeman/ngx-rxdb](https://github.com/beeman/ngx-rxdb) from [@beeman](https://github.com/beeman).

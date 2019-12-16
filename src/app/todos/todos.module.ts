@@ -2,7 +2,7 @@ import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { SharedModule } from '@app/shared/shared.module';
-import { NgxRxdbModule } from 'ngx-rxdb';
+import { NgxRxdbModule } from '@beeman/ngx-rxdb';
 import { TodosContainerComponent } from './components';
 import { TODO_SCHEMA } from './models';
 import { TodosService } from './services';

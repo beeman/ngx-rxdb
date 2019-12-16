@@ -36,7 +36,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "https://voznik.github.io/ngx-rxdb/",
+              "baseHref": "https://beeman.github.io/ngx-rxdb/",
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
